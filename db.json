@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "carol",
+      "empresa": "exito",
+      "email": "carol@gmail.com",
+      "telefono": "3103280325",
+      "notas": "trabaja en el exito",
+      "id": 3
+    },
+    {
+      "nombre": "samy",
+      "empresa": "copabi",
+      "email": "samy@samy.com",
+      "telefono": "3103280325",
+      "notas": "psicologa encargada",
+      "id": 4
+    },
+    {
+      "nombre": "duvan",
+      "empresa": "dev",
+      "email": "duvan@duvan.com",
+      "telefono": "555555",
+      "notas": "duvan",
+      "id": 5
+    },
+    {
+      "nombre": "yimi",
+      "empresa": "ferreteria",
+      "email": "yimi@yimi.com",
+      "telefono": "3125624141",
+      "notas": "",
+      "id": 6
+    }
+  ]
+}
